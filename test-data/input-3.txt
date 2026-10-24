@@ -1,0 +1,3 @@
+# T3: SINGLE - primary empty, secondary is fired
+GT4500,0,0,10,0
+TORPEDO,SINGLE

@@ -1,0 +1,4 @@
+# T8: ALL - both stores are really fired
+GT4500,1,0,1,0  # one torpedo in each store
+TORPEDO,ALL  # empties both stores
+TORPEDO,ALL  # nothing left
