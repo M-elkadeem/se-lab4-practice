@@ -1,0 +1,3 @@
+# T6: SINGLE - primary fails, secondary must not be tried
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE

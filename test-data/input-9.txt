@@ -1,0 +1,3 @@
+# T9: ALL - primary fails, secondary succeeds
+GT4500,10,1.0,10,0
+TORPEDO,ALL

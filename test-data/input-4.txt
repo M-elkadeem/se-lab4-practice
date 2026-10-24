@@ -1,0 +1,4 @@
+# T4: SINGLE - secondary empty, primary is fired again
+GT4500,10,0,0,0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary is empty, so primary again

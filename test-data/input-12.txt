@@ -1,0 +1,4 @@
+# T12: SINGLE - primary fired last, both stores empty
+GT4500,1,0,0,0  # only one torpedo, in the primary store
+TORPEDO,SINGLE  # primary fires its only torpedo
+TORPEDO,SINGLE  # secondary empty, primary empty too
